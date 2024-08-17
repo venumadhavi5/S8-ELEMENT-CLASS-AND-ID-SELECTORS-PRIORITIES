@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(213, 145, 145);
+}
+
+
+
+
+h1{
+    background-color: rgb(0, 255, 42);
+    width: 500px;
+    color:red;
+    text-align: center;
+    box-shadow: 10px 10px 10px black;
+    border-radius: 100px;
+    text-shadow:10px 10px 10px greenyellow ;
+
+}
+img{
+    width: 200px;
+    background-color:rgb(111, 149, 54);
+    border-radius: 30px;
+    margin: 30px;
+    
+    
+}
+h2{
+    background-color: aqua;
+    color: deeppink;
+    width: 200px;
+    text-align: center;
+    box-shadow: 10px 10px 10px black;
+    border-radius: 100px;
+    text-shadow:10px 10px 10px greenyellow ;
+    
+}
+.redColorFruits{
+    background-color: rgb(212, 212, 94)
+}
+.yellowColorFruits{
+    background-color: rgb(222, 68, 68);
+
+}
+.remainingFruits{
+    box-shadow: 20px 20px 20px black;
+     border-radius: 50%;
+
+}
+#orange{
+    background-color: blue;
+    border-radius: 20px;
+}
